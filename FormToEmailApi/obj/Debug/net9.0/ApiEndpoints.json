@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "FormToEmailApi.Controllers.ContactFormController",
+    "Method": "SubmitForm",
+    "RelativePath": "api/ContactForm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "recipientEmail",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "contactForm",
+        "Type": "FormToEmailApi.Models.ContactForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

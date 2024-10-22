@@ -1,0 +1,6 @@
+@FormToEmailApi_HostAddress = http://localhost:5038
+
+GET {{FormToEmailApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

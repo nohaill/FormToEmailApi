@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hQE4feME2sv02ObtmwfdJP6T166o34jCyW6tG7kkVT0=",
+  "Source": "FormToEmailApi",
+  "BasePath": "_content/FormToEmailApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
